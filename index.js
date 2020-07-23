@@ -39,3 +39,5 @@ dispatcher.on('error', console.error);
     }
 
 });
+
+client.login(token);
