@@ -21,6 +21,7 @@ Make a folder where you will copy all these project files to. Name it what you f
 Type in "npm init" and go through the options. Next, you will need to install the following things/run the following commands.
 
 FFMPEG(search up a tutorial i guess)
+
 FS: npm i fs
 
 discord.js: npm i discord.js
