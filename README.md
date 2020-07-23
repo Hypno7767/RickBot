@@ -1,4 +1,5 @@
 # RickBot
+DISCORD SERVER: https://discord.gg/Spj5Ea9 See RickBot in action!
 Alright so this one is kinda an iffy one that took no programming skills to write whatsoever. This is literally shitposting on Github.
 Who would have known society could have evolved so fast?
 
