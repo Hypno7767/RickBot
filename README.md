@@ -37,7 +37,7 @@ Open the index.js file and where I put "YOUR_TOKEN_HERE", paste your token, but 
 You're done with the code! Run the file with "node index.js".
 All that's left is the invite. Remember that Client ID I told you to copy? You're gonna need that. Put that ID into this URL where it says to put an ID into.
 
-https://discord.com/oauth2/authorize?client_id=(CLIENT ID HERE!)&permissions=537159744&scope=bot
+https://discord.com/oauth2/authorize?client_id=CLIENT_ID_HERE!&permissions=537159744&scope=bot
 
 Invite it to the discord, and you're done!
 
