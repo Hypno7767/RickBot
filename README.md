@@ -22,8 +22,10 @@ Type in "npm init" and go through the options. Next, you will need to install th
 
 FFMPEG(search up a tutorial i guess)
 FS: npm i fs
-@discord.js/opus: npm i @discordjs/opus
+
 discord.js: npm i discord.js
+
+@discord.js/opus: npm i @discordjs/opus
 
 
 Next, download the master branch of this project. Keep in mind you're kinda downloading the full entirety of Rick Astley's <i>Never Gonna Give You Up</i>. If you're the kind of "Oh lord praise the Copyright Laws" person in the room, I would just use coding skills to play this from a YT video instead, but whatever.
