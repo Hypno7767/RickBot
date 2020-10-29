@@ -28,7 +28,8 @@ FS: npm i fs
 
 discord.js: npm i discord.js
 
-@discord.js/opus: npm i @discordjs/opus
+@discord.js/opus: npm i @discordjs/opus 
+DISCORD.JS ORPUS REQUIRES VISUAL STUDIO ALONG WITH "Desktop development with C++". I am now realising how many requirements there are to get this off the ground.
 
 
 Next, download the master branch of this project. Keep in mind you're kinda downloading the full entirety of Rick Astley's <i>Never Gonna Give You Up</i>. If you're the kind of "Oh lord praise the Copyright Laws" person in the room, I would just use coding skills to play this from a YT video instead, but whatever.
